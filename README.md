@@ -1,4 +1,4 @@
-# Objective-C Blocking Syntax
+# Objective-C Block Syntax
 
 ### Defining Block Type
 
